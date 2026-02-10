@@ -17,7 +17,6 @@ const projects = [
     title: "No-Code Automation",
     description: "Automation workflows using Zapier and Make.",
     tech: ["Zapier", "Make"],
-    live: "#",
     github: "https://github.com/abrarahmedsiddiqui67/no-code-automation",
   },
 ];
